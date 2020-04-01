@@ -9,6 +9,7 @@ const Home = () => (
                 content="Web site created using next JS"
             />
             <link rel="icon" href="/favicon.ico"/>
+            <meta name="theme-color" content="#000000"/>
             <link rel="manifest" href="/manifest.json"/>
         </Head>
 
